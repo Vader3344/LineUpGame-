@@ -6,6 +6,7 @@ namespace ConnectFour
 {
     public class Program
     {
+
         static async Task Main(string[] args)
         {
             Console.Title = "ConnectFour - IFN584 Edition";
