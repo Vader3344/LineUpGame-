@@ -17,7 +17,22 @@ ConnectFour is a two-player game where participants take turns dropping discs in
 
 ---
 
-## 🧩 Game Features
+## 🧩 Game Features, requirements and Objectives
 
-| Feature                  | Description                                                                 |
-|--------------------------|-----------------------------------------------------------------------------
+Completion Check   | Feature                  | Description                                                                 |
+------------------ | --------------------------|-----------------------------------------------------------------------------
+
+❌  Develop an extensible framework for many different two-player board games
+❌  Framework can be easily adapted to different games
+❌  Design diagrams must include lineup classic (a1), lineup basic (basic connect 4), and lineup spin (basic connect 4 but every 5 turn the board rotates 90 degrees clockwise)
+❌  HvH and HvC
+❌  Saved and load
+❌  History for hvh so players and un and redo
+❌  Help menu
+❌  C# .net8 using ascii or unicode
+❌  2 files for submission, design report and c# zip
+❌  Only 1 person needs to submit
+
+
+let me know if i missed anything
+ 
