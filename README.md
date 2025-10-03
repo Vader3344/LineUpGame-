@@ -20,7 +20,7 @@ ConnectFour is a two-player game where participants take turns dropping discs in
 ## 🧩 Game Features, requirements and Objectives
 
 Completion Check   | Feature                  | Description                                                                 |
------------------- | --------------------------|-----------------------------------------------------------------------------
+------------------ | -------------------------|-----------------------------------------------------------------------------|
 
 ❌  Develop an extensible framework for many different two-player board games
 ❌  Framework can be easily adapted to different games
