@@ -1,0 +1,14 @@
+D:\QUT Study\Semester 2\IFN 584 OOP\Assignment\LineUpGame\bin\Debug\net10.0\LineUpGame.exe
+D:\QUT Study\Semester 2\IFN 584 OOP\Assignment\LineUpGame\bin\Debug\net10.0\LineUpGame.dll
+D:\QUT Study\Semester 2\IFN 584 OOP\Assignment\LineUpGame\obj\Debug\net10.0\LineUpGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\QUT Study\Semester 2\IFN 584 OOP\Assignment\LineUpGame\obj\Debug\net10.0\LineUpGame.AssemblyInfoInputs.cache
+D:\QUT Study\Semester 2\IFN 584 OOP\Assignment\LineUpGame\obj\Debug\net10.0\LineUpGame.AssemblyInfo.cs
+D:\QUT Study\Semester 2\IFN 584 OOP\Assignment\LineUpGame\obj\Debug\net10.0\LineUpGame.csproj.CoreCompileInputs.cache
+D:\QUT Study\Semester 2\IFN 584 OOP\Assignment\LineUpGame\obj\Debug\net10.0\LineUpGame.dll
+D:\QUT Study\Semester 2\IFN 584 OOP\Assignment\LineUpGame\obj\Debug\net10.0\refint\LineUpGame.dll
+D:\QUT Study\Semester 2\IFN 584 OOP\Assignment\LineUpGame\obj\Debug\net10.0\LineUpGame.pdb
+D:\QUT Study\Semester 2\IFN 584 OOP\Assignment\LineUpGame\bin\Debug\net10.0\LineUpGame.deps.json
+D:\QUT Study\Semester 2\IFN 584 OOP\Assignment\LineUpGame\bin\Debug\net10.0\LineUpGame.runtimeconfig.json
+D:\QUT Study\Semester 2\IFN 584 OOP\Assignment\LineUpGame\bin\Debug\net10.0\LineUpGame.pdb
+D:\QUT Study\Semester 2\IFN 584 OOP\Assignment\LineUpGame\obj\Debug\net10.0\LineUpGame.genruntimeconfig.cache
+D:\QUT Study\Semester 2\IFN 584 OOP\Assignment\LineUpGame\obj\Debug\net10.0\ref\LineUpGame.dll
